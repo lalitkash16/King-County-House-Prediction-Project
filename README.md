@@ -1,0 +1,2 @@
+# King-County-House-Prediction-Project
+Problem statement:  A dataset that records the house prices of 9,761 houses in King County, Washington, US is given. The house prices are recorded along with some other attributes like - area of the house, number of bedrooms, number of bathrooms, etc.   Objective:  Following tasks must be performed:  EDA,  Initial model fitting step ,Feature engineering ,Model fitting after feauture engineering.Experiment and check if a decision tree model can be used to fit the data mode accurately and perform Model testing.
